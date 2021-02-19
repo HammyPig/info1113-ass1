@@ -1,0 +1,1 @@
+can add books with same information but different serial number

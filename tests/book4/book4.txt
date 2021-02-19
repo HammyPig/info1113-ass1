@@ -1,0 +1,1 @@
+recognises when book is rented

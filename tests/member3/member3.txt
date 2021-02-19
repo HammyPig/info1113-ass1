@@ -1,0 +1,1 @@
+recognises if no members are present

@@ -1,0 +1,19 @@
+member books 100000
+ADD MEMBER you, the marker (yes you)
+add member YES YOU!
+member books 100000
+add collection books.csv
+rent 100000 111111
+rent 100001 111112
+rent 100000 111112
+member books 100000
+relinquish 100000 111111
+member books 100000
+rent 100000 111112
+rent 100000 111113
+rent 100000 111114
+rent 100000 111115
+rent 100000 111116
+member books 100000
+relinquish all 100000
+member books 100000

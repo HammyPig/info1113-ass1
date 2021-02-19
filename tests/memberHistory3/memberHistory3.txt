@@ -1,0 +1,1 @@
+recognises when no members exist, deals with complex interactions (duplicate relinquishing and multiple members)

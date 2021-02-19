@@ -1,0 +1,1 @@
+recognises when member(s) or book(s) don't exist, otherwise relinquish works as intended (cannot relinquish not rented book, and relinquish frees book and member connection)

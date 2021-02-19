@@ -1,0 +1,1 @@
+recognises when member or book does not exist, otherwise renting works as intended

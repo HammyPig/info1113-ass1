@@ -1,0 +1,1 @@
+recognises if no members exist, books appear when successfully rented and are removed when successfully relinquished

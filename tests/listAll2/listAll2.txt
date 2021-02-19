@@ -1,0 +1,1 @@
+recognises if no books are present, and accurately lists short/long string of books that have been added

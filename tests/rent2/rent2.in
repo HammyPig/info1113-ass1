@@ -1,0 +1,11 @@
+rent 100000 111111
+add member imhungry
+rent 100000 111111
+add collection duplicates.csv
+list available
+rent 100000 999999
+rent 900000 111111
+rent 100000 111111
+list all long
+list available
+member books 100000

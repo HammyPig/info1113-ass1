@@ -1,0 +1,1 @@
+only saves collection when books are present

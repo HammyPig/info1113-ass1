@@ -1,0 +1,7 @@
+add book duplicates.csv 111111
+add book nofile 111112
+aDD BOOK duplicates.csv 111112
+ADD BOOK duplicates.csv 111113
+add book duplicates.csv 999999
+LIST ALL
+number copies

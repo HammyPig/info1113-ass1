@@ -1,0 +1,1 @@
+recognises if no books are present, and accurately displays all short/long strings of books that aren't rented

@@ -1,0 +1,1 @@
+checks everything (oh and also checks if exit works)

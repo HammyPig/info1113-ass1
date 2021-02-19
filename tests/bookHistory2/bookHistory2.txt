@@ -1,0 +1,1 @@
+rent history is added when book is relinquished, or states book does not exist

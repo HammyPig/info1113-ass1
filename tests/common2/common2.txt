@@ -1,0 +1,1 @@
+can recognise if there are no members/books, or if members are invalid

@@ -1,0 +1,67 @@
+author Homer
+genre Fantasy
+list all
+commands
+number copies
+add collection typo
+add book books.csv 111119
+add book books.csv 111119
+add book books.csv 199999
+add book books.csv 111117
+list ALL
+aDD COLLECTION books.csv
+add collection duplicates.csv
+add collection books2.csv
+list all
+number copies
+book 111119 long
+add member me
+rent 100000 111111
+add member you
+rent 100001 111111
+relinquish all 100000
+rent 100001 111111
+add member us
+rent 100000 111111
+rent 100000 111112
+rent 100000 111113
+rent 100000 111114
+member books 100000
+relinquish 100000 111111
+member books 100000
+relinquish all 100000
+member books 100000
+member history 100000
+member history 100001
+rent 100001 111112
+rent 100001 111113
+rent 100001 111114
+relinquish all 100001
+save collection test_output.csv
+relinquish all 100001
+rent 100001 111115
+rent 100001 111116
+rent 100001 111117
+rent 100001 111118
+rent 100001 111119
+rent 100001 111120
+relinquish all 100001
+member history 100001
+rent 100002 111112
+rent 100002 111113
+rent 100002 111114
+cOMMON 100001 100002 100003 100004
+cOMMON 100001 100002 100003
+relinquish all 100002
+common 100001 100002
+common 100000 100002 100001
+common 100002 100001 100000
+author Homer
+genre Fantasy
+genre horror movies
+author james walden
+list available long
+list all long
+add member its a me
+common 100000 100001 100002 100003
+exIt

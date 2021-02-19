@@ -1,0 +1,1 @@
+outputs short/long string, or if book is not found

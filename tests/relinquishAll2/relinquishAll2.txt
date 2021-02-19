@@ -1,0 +1,1 @@
+recognises if members/books do not exist, or if books are not being rented, otherwise relinquishes all as intended
